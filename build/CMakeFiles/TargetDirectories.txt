@@ -1,5 +1,0 @@
-/Users/tark/workspace/openEngine/build/CMakeFiles/oe_common.dir
-/Users/tark/workspace/openEngine/build/CMakeFiles/common_api_tests.dir
-/Users/tark/workspace/openEngine/build/CMakeFiles/test.dir
-/Users/tark/workspace/openEngine/build/CMakeFiles/edit_cache.dir
-/Users/tark/workspace/openEngine/build/CMakeFiles/rebuild_cache.dir
